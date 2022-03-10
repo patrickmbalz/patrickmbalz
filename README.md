@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu Perfil 😊
+## Olá! Seja Bem Vindo ao meu Perfil 😊
 
 - 🌱 Atualmente estou aprendendo Front-End.
 - 😄 Pronome : Ele/Dele
