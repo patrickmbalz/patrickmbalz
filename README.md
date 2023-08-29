@@ -1,8 +1,8 @@
 ## Olá! Seja Bem Vindo ao meu Perfil 😊
 
-- 🌱 Atualmente estou aprendendo Front-End.
+- 🌱 Atualmente estou aprendendo Programação.
 - 😄 Pronome : Ele/Dele
-- 🖥️ Discord ID : PatrickMB#9914
+- 🖥️ Discord ID : meldcu
 
 <div align="center">
   <a href="https://github.com/patrickmbalz">
@@ -19,7 +19,7 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/patrickmbalz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_patrickmb_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:patrickdemourabalz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrick-de-moura-balz-74046a234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
